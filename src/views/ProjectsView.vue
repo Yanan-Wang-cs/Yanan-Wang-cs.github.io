@@ -7,7 +7,7 @@
       @tab-click="handleClick"
       class="mb-12"
     >
-      <div class="flex flex-row text-base my-4">
+      <div class="flex flex-row text-base my-4 whitespace-normal">
         <div>
           <span class="icon iconfont icon-gongsi" />
           {{ t("projects.type.company") }}
@@ -33,7 +33,7 @@
                     : 'icon-github1'
                 }`"
               />
-              {{ item.title }}
+              <span class="truncate">{{ item.title }}</span>
             </template>
             <div class="text-gray-500">
               {{ item.date }}
@@ -44,7 +44,7 @@
               >
               <span class="whitespace-normal">{{ item.intro }}</span>
             </div>
-            <div>
+            <div class="whitespace-normal">
               <span class="font-bold inline-block w-28"
                 >{{ t("projects.label.technology") }}:</span
               >{{ item.technology }}
@@ -68,7 +68,7 @@
                     : 'icon-github1'
                 }`"
               />
-              {{ item.title }}
+              <span class="truncate">{{ item.title }}</span>
 
               <iframe
                 v-if="item.github"
@@ -101,7 +101,7 @@
                 />
               </div>
             </div>
-            <div>
+            <div class="whitespace-normal">
               <span class="font-bold inline-block w-28"
                 >{{ t("projects.label.technology") }}:</span
               >{{ item.technology }}
