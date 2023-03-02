@@ -1,0 +1,177 @@
+{
+  "id": "3851250",
+  "name": "c v",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18310962",
+      "name": "中英文 英文",
+      "font_class": "zhongyingwen",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "18311481",
+      "name": "中英文 中文",
+      "font_class": "zhongyingwen2zhongwen",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1727361",
+      "name": "24组织架构、接口",
+      "font_class": "zuzhijiagoujiekou",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "6909428",
+      "name": "设备开发",
+      "font_class": "shebeikaifa",
+      "unicode": "ecac",
+      "unicode_decimal": 60588
+    },
+    {
+      "icon_id": "9189103",
+      "name": "部署",
+      "font_class": "bushu",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "11649634",
+      "name": "组织机构",
+      "font_class": "zuzhijigou",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "540364",
+      "name": "ic_degree",
+      "font_class": "icdegree",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1026706",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1288618",
+      "name": "公司地址",
+      "font_class": "gongsidizhi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1444689",
+      "name": "google-translate",
+      "font_class": "google-translate",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "1495449",
+      "name": "学士帽",
+      "font_class": "xueshimao",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "2183047",
+      "name": "谷歌",
+      "font_class": "Google",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "3176643",
+      "name": "GitHub",
+      "font_class": "GitHub",
+      "unicode": "ea09",
+      "unicode_decimal": 59913
+    },
+    {
+      "icon_id": "3186899",
+      "name": "个人简历",
+      "font_class": "gerenjianli",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "5226534",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6664154",
+      "name": "email",
+      "font_class": "email1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "7239484",
+      "name": "github",
+      "font_class": "github1",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "7404290",
+      "name": "公司",
+      "font_class": "gongsi",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "10258917",
+      "name": "email",
+      "font_class": "email2",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15378418",
+      "name": "googlescholar",
+      "font_class": "googlescholar",
+      "unicode": "ebae",
+      "unicode_decimal": 60334
+    },
+    {
+      "icon_id": "19418425",
+      "name": "github",
+      "font_class": "github2",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "22779615",
+      "name": "数译_简历",
+      "font_class": "shuyi_jianli",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "24891712",
+      "name": "Google-Maps",
+      "font_class": "Google-Maps",
+      "unicode": "e87b",
+      "unicode_decimal": 59515
+    },
+    {
+      "icon_id": "29649892",
+      "name": "news",
+      "font_class": "news",
+      "unicode": "ed50",
+      "unicode_decimal": 60752
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Thin.otf');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Thin.otf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Light.otf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Regular.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Medium.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Bold.otf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Bold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Black.otf');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "NotoSan";
+  src: url('NotoSansSC-Black.otf');
+  font-weight: 900;
+}
